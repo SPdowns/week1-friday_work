@@ -24,7 +24,11 @@
   margin: 3px;
 }
 .side {
-  
+  border-radius: 25;
+  width: 120px;
+  position: fixed;
+  top: 10px;
+  background: grey;
 }
 body {
   float: initial;
