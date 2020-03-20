@@ -1,13 +1,14 @@
 @media screen and (max width:768px) {
 }
+
 .logo {
   float: right;
   width: 80px;
   height: 80px;
-  background-image: url('img_flowers.jpg');
   background-size: 100% 100%;
   border: 3px solid black;
 }
-.below {
-  padding-left: 50px;
+.name {
+  color:blue;
+  font-weight:bold
 }
