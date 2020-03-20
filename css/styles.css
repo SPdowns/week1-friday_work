@@ -12,8 +12,10 @@
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .line {
-  padding: 4px;
-}
+  padding-left: 10px;
+  padding-right: 4px;
+  text-align: center;
+} 
 .bg-success {
   border-radius: 18px;
   padding-left: 15px;
