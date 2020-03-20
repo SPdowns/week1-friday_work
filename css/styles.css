@@ -27,5 +27,7 @@ body {
 .bg-info {
   margin: 10px;
   border: 3px solid red;
-  padding: 15px;
+  padding-left: 15px;
+  padding-top: 1px;
+  padding-bottom: 1px;
 }
