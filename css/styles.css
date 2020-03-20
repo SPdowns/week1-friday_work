@@ -24,11 +24,17 @@
   margin: 3px;
 }
 .side {
-  border-radius: 25;
+  border-radius: 18px;  
   width: 120px;
   position: fixed;
   top: 10px;
   background: grey;
+  text-align: center;
+}
+.side p {
+  padding-left: 8px;
+  text-align: left;
+  font-size: 8px;
 }
 body {
   float: initial;
