@@ -9,6 +9,9 @@
   border: 3px solid black;
 }
 .name {
-  color:blue;
-  font-weight:bold
+  color: #ffbf00;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder;
+  -webkit-text-size-adjust: auto;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
