@@ -35,7 +35,7 @@ color: purple;
   margin: 3px;
 }
 .point {
-  float: left;
+  float: right;
 }
 .side {
   border-radius: 18px;  
