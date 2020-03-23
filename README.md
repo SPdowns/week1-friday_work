@@ -10,6 +10,7 @@ _My Live Portfolio Website. This is site's content goes briefly into where I am 
 ## Setup/Installation Requirements
 
 _I'd have more to say here if this were an application, but its only a website, so I think it's pretty straight forward_
+_To visit the live site; goto https://spdowns.github.io/week1-friday_work/ _
 
 ## Known Bugs
 
