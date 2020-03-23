@@ -10,7 +10,7 @@ _My Live Portfolio Website. This is site's content goes briefly into where I am 
 ## Setup/Installation Requirements
 
 _I'd have more to say here if this were an application, but its only a website, so I think it's pretty straight forward_
-_Visit https://spdowns.github.io/week1-friday_work/ for the live site.
+_Visit https://spdowns.github.io/week1-friday_work/ for the live site._
 
 ## Known Bugs
 
@@ -19,8 +19,6 @@ _Two main issues I had while building this site were from @media queries and Boo
 ## Support and contact details
 
 _This is site was built with the limited knowledge gained the first week of Coding Bootcamp. Please feel free to contact me at spdowns@protonmail.com_
-
-_Visit https://spdowns.github.io/week1-friday_work/ for the live site._
 
 ## Technologies Used
 
